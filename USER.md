@@ -1,5 +1,5 @@
 ## Basic Information
-- Nombre: [Tu Nombre]
+- Nombre: [Ambriz]
 - Zona horaria: UTC-6
 
 ## Preferencias Técnicas
